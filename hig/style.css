@@ -1,0 +1,76 @@
+/* .container-fluid{
+  background-color: blueviolet;
+  height: 6rem;
+}
+.row
+{
+  background-color: darkcyan;
+  height: 4.5rem;
+} */
+.icon{
+  border-radius: 20%;
+}
+.jumbotron{
+  text-align: center;
+  background: none;
+}
+.sectionLight{
+  background-color: #eceeef;
+  padding: 2em;
+}
+.sectionDark{
+  background-color: #cccccc;
+  padding: 2rem;
+}
+.coolcarwrapper{
+  margin-top: 20px;
+}
+button.coolcar{
+  color: #ffffff;
+  background-color:  #4CAF50;
+  display: block;
+  margin:auto;
+}
+h5.modal-title{
+  margin: auto;
+}
+.formmodalwrapper{
+  padding: 2rem;
+}
+.paratext1{
+  font-family: 'Courgette', cursive;
+}
+h3.head1{
+  font-family: 'Anton', sans-serif;
+  margin-bottom: 30px;
+  display: block;
+  text-align: center;
+}
+.img-center{
+  display: block;
+  margin:auto;
+}
+.btncenter{
+  display: block;
+  color: #ffffff;
+  background-color:  #4CAF50;
+  margin: auto;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.footercont{
+  background-color: #4d4d4d;
+}
+.fa-facebook-square{
+  color: #3b5998;
+  padding: 20px;
+}
+.fa-instagram-square{
+  color: #ffffff;
+  margin: auto;
+}
+.fa-google-plus-square{
+  color: #db3236;
+  margin: auto;
+}
